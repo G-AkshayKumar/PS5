@@ -1,0 +1,7 @@
+flask==2.0.1
+pandas>=2.0.0
+numpy>=1.21.2
+xgboost
+scikit-learn==1.2.2
+schedule==1.1.0
+plotly==5.3.1
